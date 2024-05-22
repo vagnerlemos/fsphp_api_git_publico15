@@ -6,7 +6,7 @@
 [![Latest Version](https://img.shields.io/github/release/vagnerlemos/apifsphp15.svg?style=flat-square)](https://github.com/vagnerlemos/apifsphp15/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Build](https://img.shields.io/scrutinizer/build/g/vagnerlemos/apifsphp15.svg?style=flat-square)](https://scrutinizer-ci.com/g/vagnerlemos/fsphp_api_git_publico15/badges/quality-score.png?b=main)
-[![Quality Score](https://img.shields.io/scrutinizer/g/vagnerlemos/apifsphp15.svg?style=flat-square)](https://scrutinizer-ci.com/g/vagnerlemos/apifsphp15)
+
 [![Total Downloads](https://img.shields.io/packagist/dt/vagnerlemos/apifsphp15.svg?style=flat-square)](https://packagist.org/packages/cvagnerlemos/apifsphp15)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/vagnerlemos/fsphp_api_git_publico15/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/vagnerlemos/fsphp_api_git_publico15/?branch=main)
 
