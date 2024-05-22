@@ -3,10 +3,9 @@
 [![Maintainer](http://img.shields.io/badge/maintainer-@vagnerlemos-blue.svg?style=flat-square)](https://twitter.com/vagnerlemos)
 [![Source Code](http://img.shields.io/badge/source-vagnerlemos/apifsphp15-blue.svg?style=flat-square)](https://github.com/vagnerlemos/apifsphp15)
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/vagnerlemos/apifsphp15.svg?style=flat-square)](https://packagist.org/packages/vagnerlemos/apifsphp15)
-[![Latest Version](https://img.shields.io/github/release/vagnerlemos/apifsphp15.svg?style=flat-square)](https://github.com/vagnerlemos/apifsphp15/releases)
+[![Latest Version](https://img.shields.io/github/release/vagnerlemos/apifsphp15.svg?style=flat-square)](https://github.com/vagnerlemos/fsphp_api_git_publico15/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Build](https://img.shields.io/scrutinizer/build/g/vagnerlemos/apifsphp15.svg?style=flat-square)](https://scrutinizer-ci.com/g/vagnerlemos/fsphp_api_git_publico15/badges/quality-score.png?b=main)
-
+[![Build Status](https://scrutinizer-ci.com/g/vagnerlemos/fsphp_api_git_publico15/badges/build.png?b=main)](https://scrutinizer-ci.com/g/vagnerlemos/fsphp_api_git_publico15/build-status/main)
 [![Total Downloads](https://img.shields.io/packagist/dt/vagnerlemos/apifsphp15.svg?style=flat-square)](https://packagist.org/packages/cvagnerlemos/apifsphp15)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/vagnerlemos/fsphp_api_git_publico15/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/vagnerlemos/fsphp_api_git_publico15/?branch=main)
 
